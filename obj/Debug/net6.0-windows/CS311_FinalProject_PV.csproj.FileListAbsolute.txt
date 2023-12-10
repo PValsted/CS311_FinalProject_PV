@@ -1,0 +1,16 @@
+C:\Users\Patrick\source\repos\CS311_FinalProject_PV\bin\Debug\net6.0-windows\CS311_FinalProject_PV.exe
+C:\Users\Patrick\source\repos\CS311_FinalProject_PV\bin\Debug\net6.0-windows\CS311_FinalProject_PV.deps.json
+C:\Users\Patrick\source\repos\CS311_FinalProject_PV\bin\Debug\net6.0-windows\CS311_FinalProject_PV.runtimeconfig.json
+C:\Users\Patrick\source\repos\CS311_FinalProject_PV\bin\Debug\net6.0-windows\CS311_FinalProject_PV.dll
+C:\Users\Patrick\source\repos\CS311_FinalProject_PV\bin\Debug\net6.0-windows\CS311_FinalProject_PV.pdb
+C:\Users\Patrick\source\repos\CS311_FinalProject_PV\obj\Debug\net6.0-windows\CS311_FinalProject_PV.csproj.GenerateResource.cache
+C:\Users\Patrick\source\repos\CS311_FinalProject_PV\obj\Debug\net6.0-windows\CS311_FinalProject_PV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patrick\source\repos\CS311_FinalProject_PV\obj\Debug\net6.0-windows\CS311_FinalProject_PV.AssemblyInfoInputs.cache
+C:\Users\Patrick\source\repos\CS311_FinalProject_PV\obj\Debug\net6.0-windows\CS311_FinalProject_PV.AssemblyInfo.cs
+C:\Users\Patrick\source\repos\CS311_FinalProject_PV\obj\Debug\net6.0-windows\CS311_FinalProject_PV.csproj.CoreCompileInputs.cache
+C:\Users\Patrick\source\repos\CS311_FinalProject_PV\obj\Debug\net6.0-windows\CS311_FinalProject_PV.dll
+C:\Users\Patrick\source\repos\CS311_FinalProject_PV\obj\Debug\net6.0-windows\refint\CS311_FinalProject_PV.dll
+C:\Users\Patrick\source\repos\CS311_FinalProject_PV\obj\Debug\net6.0-windows\CS311_FinalProject_PV.pdb
+C:\Users\Patrick\source\repos\CS311_FinalProject_PV\obj\Debug\net6.0-windows\CS311_FinalProject_PV.genruntimeconfig.cache
+C:\Users\Patrick\source\repos\CS311_FinalProject_PV\obj\Debug\net6.0-windows\ref\CS311_FinalProject_PV.dll
+C:\Users\Patrick\source\repos\CS311_FinalProject_PV\obj\Debug\net6.0-windows\CS311_FinalProject_PV.UnitConverter.resources
